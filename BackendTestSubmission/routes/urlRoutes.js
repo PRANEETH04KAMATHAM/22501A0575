@@ -13,13 +13,12 @@ router.post('/', (req, res) => {
 
     let finalCode = shortcode || generateShortCode();
 
-    // Check uniqueness
     if (db.has(finalCode)) {
         return res.status(409).json({ error: 'Shortcode already exists' });
     }
 
     const createdAt = new Date();
-    const expiry = new Date(createdAt.getTime() + validity * 60000); // add minutes
+    const expiry = new Date(createdAt.getTime() + validity * 60000); 
 
     db.set(finalCode, {
         originalUrl: url,
