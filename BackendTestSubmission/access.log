@@ -1,0 +1,19 @@
+{"method":"POST","url":"/shorturls","time":"2025-06-28T05:37:46.611Z","body":{"url":"https://www.google.com","validity":30,"shortcode":"goog"}}
+{"method":"GET","url":"/goog","time":"2025-06-28T05:39:36.757Z"}
+{"method":"GET","url":"/goog","time":"2025-06-28T05:40:48.100Z"}
+{"method":"POST","url":"/shorturls","time":"2025-06-28T05:52:54.163Z","body":{"url":"https://example.com/some/long/path","validity":10,"shortcode":"test123"}}
+{"method":"GET","url":"/test123","time":"2025-06-28T05:53:20.881Z","body":{"url":"https://example.com/some/long/path","validity":10,"shortcode":"test123"}}
+{"method":"GET","url":"/shorturls/test123","time":"2025-06-28T05:54:19.745Z","body":{"url":"https://example.com/some/long/path","validity":10,"shortcode":"test123"}}
+{"method":"GET","url":"/test123","time":"2025-06-28T05:57:52.131Z"}
+{"method":"GET","url":"/shorturls/test123","time":"2025-06-28T06:02:06.978Z","body":{"url":"https://example.com/some/long/path","validity":10,"shortcode":"test123"}}
+{"method":"GET","url":"/shorturls/test123","time":"2025-06-28T06:02:09.562Z","body":{"url":"https://example.com/some/long/path","validity":10,"shortcode":"test123"}}
+{"method":"POST","url":"/shorturls","time":"2025-06-28T06:03:38.649Z","body":{"url":"https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=gfg&matchtype=p&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gbraid=0AAAAAC9yBkCwGXwICDUfMrOd7AonIjM11&gclid=Cj0KCQjwgvnCBhCqARIsADBLZoIlVABFsh8SAQtGVxC3uMG962lpP4LQOWdD9ESDiPyjBPgcZegk0VgaAmubEALw_wcB","validity":30,"shortcode":"gfgshorten"}}
+{"method":"GET","url":"/gfgshorten","time":"2025-06-28T06:03:53.334Z","body":{"url":"https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=gfg&matchtype=p&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gbraid=0AAAAAC9yBkCwGXwICDUfMrOd7AonIjM11&gclid=Cj0KCQjwgvnCBhCqARIsADBLZoIlVABFsh8SAQtGVxC3uMG962lpP4LQOWdD9ESDiPyjBPgcZegk0VgaAmubEALw_wcB","validity":30,"shortcode":"gfgshorten"}}
+{"method":"GET","url":"/gfgshorten","time":"2025-06-28T06:04:09.041Z"}
+{"method":"GET","url":"/gfgshorten","time":"2025-06-28T06:11:35.149Z"}
+{"method":"GET","url":"/favicon.ico","time":"2025-06-28T06:11:35.208Z"}
+{"method":"POST","url":"/shorturls","time":"2025-06-28T06:12:33.287Z","body":{"url":"https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=gfg&matchtype=p&campaignid=20039445781&adgroup=147845288105&gad_source=1&gad_campaignid=20039445781&gbraid=0AAAAAC9yBkCwGXwICDUfMrOd7AonIjM11&gclid=Cj0KCQjwgvnCBhCqARIsADBLZoIlVABFsh8SAQtGVxC3uMG962lpP4LQOWdD9ESDiPyjBPgcZegk0VgaAmubEALw_wcB","validity":30,"shortcode":"gfgshorten"}}
+{"method":"GET","url":"/gfgshorten","time":"2025-06-28T06:13:16.924Z"}
+{"method":"GET","url":"/gfgshorten","time":"2025-06-28T06:13:38.219Z"}
+{"method":"GET","url":"/gfgshorten","time":"2025-06-28T06:13:53.446Z","body":{"email":"praneethkamatham04@gmail.com","name":"Kamatham Praneeth","rollNo":"22501A0575","accessCode":"eHWNzt","clientID":"5db7c98e-c45f-4cfe-9e84-c5129b957aa2","clientSecret":"SwprzuaveDvueTzm"}}
+{"method":"GET","url":"/shorturls/gfgshorten","time":"2025-06-28T06:16:39.692Z","body":{"email":"praneethkamatham04@gmail.com","name":"Kamatham Praneeth","rollNo":"22501A0575","accessCode":"eHWNzt","clientID":"5db7c98e-c45f-4cfe-9e84-c5129b957aa2","clientSecret":"SwprzuaveDvueTzm"}}
