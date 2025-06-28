@@ -24,7 +24,7 @@ app.get('/:shortcode', (req, res) => {
 
     entry.clicks.push({
         timestamp: now.toISOString(),
-        referrer: req.get('Referer') || 'Direct', // Fixed typo here
+        referrer: req.get('Referer') || 'Direct',
         ip: req.ip,
         location: 'Simulated'
     });
